@@ -28,9 +28,8 @@ The goal is to help individuals:
 ### 🛠 Current Tech Stack (MVP)
 
 - **Frontend**: React.js (or Next.js if supported)  
-- **Styling**: Tailwind CSS  
-- **AI Assistant**: Using **Replit Agent** to scaffold and accelerate development  
-- **Hosting (soon)**: Vercel or Replit deployment
+- **Styling**: Tailwind CSS
+-  **Hosting (soon)**: Vercel or Replit deployment
 
 ---
 
