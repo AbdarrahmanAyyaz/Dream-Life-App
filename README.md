@@ -93,7 +93,7 @@ Future collaboration opportunities will be considered after MVP launch.
 # 📬 Contact
 
 Want to follow the project or collaborate later?  
-Reach out to [Your Name or GitHub Username].
+Reach out to @AbdarrahmanAyyaz.
 
 ---
 
